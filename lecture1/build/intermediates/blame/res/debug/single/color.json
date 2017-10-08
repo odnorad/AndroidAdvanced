@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/nicoleang/.android/build-cache/56adf32fef516811cbcc64d457977ea759ec0382/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/nicoleang/.android/build-cache/30799d78f9bfad9beb2f5c8d0ca510f6b2314aa9/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/30799d78f9bfad9beb2f5c8d0ca510f6b2314aa9/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/nicoleang/.android/build-cache/56adf32fef516811cbcc64d457977ea759ec0382/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/nicoleang/.android/build-cache/5c1e0d21ebed745f15cb2249724a0a646069b0db/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nicoleang/.android/build-cache/30799d78f9bfad9beb2f5c8d0ca510f6b2314aa9/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

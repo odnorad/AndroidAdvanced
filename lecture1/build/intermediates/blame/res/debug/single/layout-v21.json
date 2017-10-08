@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nicoleang/.android/build-cache/472657fde02e49886fbfbc68631a3d66d6a5fc15/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nicoleang/.android/build-cache/472657fde02e49886fbfbc68631a3d66d6a5fc15/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nicoleang/.android/build-cache/472657fde02e49886fbfbc68631a3d66d6a5fc15/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nicoleang/Desktop/AND/lecture1/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nicoleang/.android/build-cache/472657fde02e49886fbfbc68631a3d66d6a5fc15/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

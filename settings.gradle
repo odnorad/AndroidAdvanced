@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':template', ':lecture1', ':exercise1', ':mylecture1', ':myexercise1', ':mylecture2', ':exercise2', ':lecture2', 'myexercise2', ':lecture3', ':exercise3', ':mylecture3', ':myexercise3', ':lecture4', ':exercise4', ':mylecture4', ':myexercise4'
+=======
+include ':template', ':lecture1', ':lecture2', ':lecture3', ':lecture4', ':lecture5', ':exercise1', ':exercise2', ':exercise3', ':exercise4'
+>>>>>>> cbccb144568492eed20f41723b5b59b23699d701

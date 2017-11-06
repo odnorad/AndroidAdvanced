@@ -2,11 +2,8 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-<<<<<<< HEAD
-    buildToolsVersion '26.0.2'
-=======
     buildToolsVersion "26.0.2"
->>>>>>> cbccb144568492eed20f41723b5b59b23699d701
+
     defaultConfig {
         applicationId "at.technikumwien.maps"
         minSdkVersion 19

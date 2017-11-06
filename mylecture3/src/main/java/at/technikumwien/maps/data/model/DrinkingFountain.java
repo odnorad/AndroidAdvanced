@@ -17,7 +17,7 @@ public class DrinkingFountain {
     private double lng;
     private int clickCount;
 
-    public DrinkingFountain() { }
+    public DrinkingFountain(String id, String NAME, double coordinate, double v) { }
 
     public DrinkingFountain(@NonNull String id, @NonNull String name, double lat, double lng, int clickCount) {
         this.id = id;

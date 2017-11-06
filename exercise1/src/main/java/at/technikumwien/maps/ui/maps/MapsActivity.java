@@ -17,7 +17,7 @@ import java.util.List;
 
 import at.technikumwien.maps.R;
 import at.technikumwien.maps.data.model.DrinkingFountain;
-import at.technikumwien.maps.ui.base.BaseActivity;
+import at.technikumwien.maps.ui.ui.BaseActivity;
 
 public class MapsActivity extends BaseActivity<MapsView, MapsPresenter> implements OnMapReadyCallback, MapsView {
 

@@ -21,6 +21,7 @@ public class AsyncTaskJsonObjectDrinkingFountainRepo implements DrinkingFountain
             protected List<DrinkingFountain> parseJson(String json) throws JSONException {
                 JSONObject jsonObject = new JSONObject(json);
                 JSONArray features = jsonObject.getJSONArray("features");
+
                 List<DrinkingFountain> drinkingFountains = new ArrayList<>(features.length());
 
                 for(int i=0; i<features.length(); i++) {
